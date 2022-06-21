@@ -1,0 +1,15 @@
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\bin\Debug\net6.0\Examples_002_Hello_User.exe
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\bin\Debug\net6.0\Examples_002_Hello_User.deps.json
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\bin\Debug\net6.0\Examples_002_Hello_User.runtimeconfig.json
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\bin\Debug\net6.0\Examples_002_Hello_User.dll
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\bin\Debug\net6.0\Examples_002_Hello_User.pdb
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\Examples_002_Hello_User.csproj.AssemblyReference.cache
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\Examples_002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\Examples_002_Hello_User.AssemblyInfoInputs.cache
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\Examples_002_Hello_User.AssemblyInfo.cs
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\Examples_002_Hello_User.csproj.CoreCompileInputs.cache
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\Examples_002_Hello_User.dll
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\refint\Examples_002_Hello_User.dll
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\Examples_002_Hello_User.pdb
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\Examples_002_Hello_User.genruntimeconfig.cache
+D:\GB\C sharp\Examples\Example_001_HelloConsole\Examples_002_Hello_User\obj\Debug\net6.0\ref\Examples_002_Hello_User.dll
